@@ -41,7 +41,38 @@ Ready to embark on this adventure? Let's collaborate and create some coding mast
   - Email: msabekoohenjani@myseneca.ca | mohsen.sabe@hotmail.com
 
 ## My Toolbox 🛠️
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,,cpp,css,git,express,figma,html,js,latex,linux,mongodb,nextjs,nodejs,postgres,py,react,tailwind ,visualstudio,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" title="LaTeX" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" title="Visual Studio" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" />
+  </a>
+</p>
+
 
 ## A Bit More About Me 😄
 - 😄 **Pronouns**: He/Him
