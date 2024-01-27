@@ -45,6 +45,5 @@ Ready to embark on this adventure? Let's collaborate and create some coding mast
 - ⚡ **Fun Fact**: 
   - I'm not just about code - I love illustration and photography too! Capturing moments and creating art whenever I can.
 
-
-Feel free to explore my repositories and don't hesitate to reach out if you want to discuss any of the projects, chat about LGBTQ+ tech inclusion, or just want to say hi!
+Feel free to explore my repositories and don't hesitate to reach out if you want to discuss any of the projects, or just want to say hi!
 
