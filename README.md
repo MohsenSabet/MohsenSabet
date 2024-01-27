@@ -67,6 +67,7 @@ Ready to embark on this adventure? Let's collaborate and create some coding mast
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" />
   </a>
 </p>
+![GitHub Tag](https://img.shields.io/github/v/tag/:user/:repo)
 
 ## A Bit More About Me 😄
 - 😄 **Pronouns**: He/Him
