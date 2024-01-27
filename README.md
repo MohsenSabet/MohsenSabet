@@ -41,11 +41,6 @@ Ready to embark on this adventure? Let's collaborate and create some coding mast
   - Email: msabekoohenjani@myseneca.ca | mohsen.sabe@hotmail.com
 
 ## My Toolbox 🛠️
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,,cpp,css,git,express,figma,html,js,latex,linux,mongodb,nextjs,nodejs,postgres,py,react,tailwind ,visualstudio,vscode" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -72,7 +67,6 @@ Ready to embark on this adventure? Let's collaborate and create some coding mast
     <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code" />
   </a>
 </p>
-
 
 ## A Bit More About Me 😄
 - 😄 **Pronouns**: He/Him
