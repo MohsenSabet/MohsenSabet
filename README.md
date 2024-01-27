@@ -38,7 +38,7 @@ Ready to embark on this adventure? Let's collaborate and create some coding mast
 
 ## Connect with Me 📬
 - 📫 **Reach Out at**:
-  - Email: msabekoohenjani@myseneca.ca | mohsen.sabe@hotmail.com
+  - Email: msabekoohenjani@myseneca.ca | Mohsen.sabet@hotmail.com
 
 ## My Toolbox 🛠️
 
