@@ -1,12 +1,11 @@
 
-# 🌟 Hello, Fabulous Souls! Welcome to My Code Closet  🌈
+# 🌟 Welcome to My Code Closet  🌈
 
-I'm Mohsen, the ever-curious and enthusiastic student of Computer Programming and Analysis at Seneca Polytechnic. 🎓💻 
-Currently in my Second Year, I'm on an exciting journey with one more thrilling year to go!
+I'm Mohsen — a curious and creative mind with a passion for building, designing, and bringing ideas to life through technology and art. 🎓💻
+I've recently graduated from the Computer Programming and Analysis program at Seneca Polytechnic, and now I'm diving full force into the next chapter!
 
-🔍 Eagerly on the hunt for a magical Co-op position where I can unleash my tech talents and soak in new knowledge. 
-Ready to embark on this adventure? Let's collaborate and create some coding masterpieces! 🌊👨‍💻
-
+🔍 I'm actively exploring opportunities to unleash my tech skills, grow creatively, and collaborate on exciting new projects.
+Let's connect and create something amazing! 🌊👨‍💻
 
 ## About Me 🚀
 
